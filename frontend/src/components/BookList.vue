@@ -20,10 +20,8 @@ const fetchBooks = async () => {
   try {
     const response = await axios.get(API_URL)
     books.value = response.data
-    console.log('Libros cargados:', books.value)
   } catch (err) {
     error.value = 'Error al cargar los libros. Verifica que el servidor Symfony esté ejecutándose en http://localhost:8000'
-    console.error('Error al cargar libros:', err)
   } finally {
     isLoading.value = false
   }
