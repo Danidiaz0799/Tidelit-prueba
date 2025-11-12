@@ -20,8 +20,8 @@
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [URL_DEL_REPOSITORIO]
-    cd [nombre_del_repo]
+    git clone https://github.com/Danidiaz0799/Tidelit-prueba.git
+    cd Tidelit-prueba
     ```
 
 2.  **Configurar la Base de Datos:**
