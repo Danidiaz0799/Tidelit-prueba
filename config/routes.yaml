@@ -1,0 +1,8 @@
+# This file is the entry point to configure your own routes.
+# Files in the routes/ subdirectory configure your routes.
+
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
