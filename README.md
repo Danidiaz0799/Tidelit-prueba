@@ -1,4 +1,6 @@
-# 📚 Sistema de Reseñas de Libros (Tide Lit)
+# 📚 Sistema de Reseñas de Libros (TideLit)
+
+<img src="image.png" alt="TideLit Logo" width="400">
 
 **Objetivo:** Prueba técnica Symfony 6 (Backend) + Vue 3 (Frontend) para la gestión de libros y sus reseñas.
 
@@ -209,5 +211,3 @@ Asegurar **índices óptimos**, especialmente en `review.book_id` y potencialmen
 - Composition API
 
 ---
-
-**✅ Prueba técnica completada y lista para evaluación.**
