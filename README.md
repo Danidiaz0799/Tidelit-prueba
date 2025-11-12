@@ -188,7 +188,7 @@ Asegurar **índices óptimos**, especialmente en `review.book_id` y potencialmen
 ## 6. Entregable Final
 
 - **Branch a Evaluar:** `main`
-- **Commit Final:** `[INSERTAR HASH DEL COMMIT FINAL AQUÍ]`
+- **Commit Final:** `230c9a5` (Fix URL in readme)
 
 ---
 
